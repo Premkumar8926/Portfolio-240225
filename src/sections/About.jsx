@@ -25,7 +25,7 @@ const About = () => {
             <div>
               <p className="grid-headtext"> Hi I'm Prem Kumar</p>
               <p className="grid-subtext">
-                With 2 years and 3 months of experience , I have honed my skills in Front-end
+                With 4 years of experience , I have honed my skills in Front-end
                 & Backend Development , with a focus on creative 3D visuals and
                 websites
               </p>
@@ -135,7 +135,7 @@ const About = () => {
                   alt="copy"
                 />
                 <p className="lg:text-2xl md:text-xl font-medium text-gray_gradient text-white">
-                  07pkumaran1996@gmail.com
+                  07pkumaran1996@gmail.com || premkumar.dev0@gmail.com
                 </p>
               </div>
             </div>
